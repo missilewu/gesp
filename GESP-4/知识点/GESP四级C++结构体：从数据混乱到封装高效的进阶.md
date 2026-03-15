@@ -143,7 +143,7 @@ int main() {
 Student stu2 = {"小红", 11, 2026002, "四年级（1）班"};
 
 // C++11及以上可省略等号，写法更简洁（GESP考试支持该语法，顺序要求不变）
-Student stu3{"小刚", 12, 2026003, "四年级（1）班"};`
+Student stu3{"小刚", 12, 2026003, "四年级（1）班"};
 ```
 
 2. **指定成员初始化（C++11及以上）**：明确标注成员名赋值，顺序可以任意，未赋值的成员会自动设为默认值（int为0，string为空），适合成员多的场景。
@@ -415,6 +415,11 @@ void printStudent(Student s) {
 // 2. 指针传递：传递卡片地址，可改原卡片（高效，推荐）
 void updateAge(Student *p, int newAge) {
     p->age = newAge; // 直接修改原卡片
+    cout << "函数内（指针传递）：" << p->name << "，" << p->age << endl;
+}
+
+void updateName(Student &s, string newName) {
+    s.name = newName; // 直接修改原卡片
     cout << "函数内（指针传递）：" << p->name << "，" << p->age << endl;
 }
 

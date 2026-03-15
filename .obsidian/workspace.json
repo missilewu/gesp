@@ -4,151 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "1e73835c64f7a405",
+        "id": "cdcd371a12ffd7f9",
         "type": "tabs",
         "children": [
           {
-            "id": "7d62c15887f3a027",
+            "id": "5c168f49ec7a3921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GESP-3/知识点/01-2025.md",
+                "file": "GESP-4/编程题/历年真题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-2025"
+              "title": "历年真题"
             }
           },
           {
-            "id": "526e7fa1374f8a92",
+            "id": "4b5f47036e688be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GESP-3/00-index.md",
+                "file": "GESP-4/官方真题/GESP四级C++2023年9月逐题考点分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-index"
+              "title": "GESP四级C++2023年9月逐题考点分析"
             }
           },
           {
-            "id": "f800403c968adbd2",
+            "id": "a2745911cc114ba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GESP-3/知识点/01-2025.md",
+                "file": "GESP-4/官方真题/GESP四级C++2023年9月逐题考点分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-2025"
+              "title": "GESP四级C++2023年9月逐题考点分析"
             }
           },
           {
-            "id": "e545cf4107953f61",
+            "id": "fd3685a688538cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GESP-3/00-index.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-index"
-            }
-          },
-          {
-            "id": "2140b021469f2ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GESP-3/知识点/03-2025-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03-2025-09"
-            }
-          },
-          {
-            "id": "86f8e22e5d6c48fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GESP-4/00-index 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-index 1"
-            }
-          },
-          {
-            "id": "7994664c7b4394ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GESP-4/知识点/函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "函数"
-            }
-          },
-          {
-            "id": "ac590219d8c51243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GESP-4/知识点/01-函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-函数"
-            }
-          },
-          {
-            "id": "eb38033b080f61f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GESP-4/知识点/GESP四级C++指针：从痛点到实战.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GESP四级C++指针：从痛点到实战"
-            }
-          },
-          {
-            "id": "324bdca8d46b6f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GESP-4/知识点/GESP四级C++指针：提示词生成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GESP四级C++指针：提示词生成"
+              "title": "readme"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +104,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -205,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 390.5
   },
   "right": {
     "id": "e9901b89cff25a9c",
@@ -268,23 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GESP-4/知识点/GESP四级C++指针：提示词生成.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GESP四级C++指针：提示词生成 的大纲"
-            }
-          },
-          {
-            "id": "306b255a13a7dbde",
-            "type": "leaf",
-            "state": {
-              "type": "note-preview",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "note-preview"
+              "title": "readme 的大纲"
             }
           }
         ],
@@ -292,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,43 +214,53 @@
       "note-to-mp:复制到公众号": false
     }
   },
-  "active": "324bdca8d46b6f87",
+  "active": "fd3685a688538cac",
   "lastOpenFiles": [
-    "GESP-4/知识点/GESP四级C++函数：从重复代码到模块化编程的蜕变.md",
-    "GESP-4/知识点/GESP四级C++函数：提示词生成.md",
-    "GESP-4/知识点/GESP四级C++指针：提示词生成.md",
-    "GESP-4/知识点/GESP四级C++指针：从痛点到实战.md",
-    "GESP-4/知识点/01-函数.md",
-    "GESP-4/知识点/在GESP四级考试中，C++函数的知识点有哪些？.md",
-    "未命名 2.md",
-    "未命名.md",
-    "readme.md",
-    "GESP四级C++指针教程：从痛点到实战.md",
-    "GESP四级C++指针：从痛点到实战 (1).md",
-    "字符串、字符数组、字面量、字符串字面量、string.md",
-    "未确认 977866.crdownload",
-    "未确认 307667.crdownload",
-    "未确认 529662.crdownload",
-    "未确认 446217.crdownload",
-    "GESP-4/知识点/提示词-结构体.md",
-    "GESP-4/00-index 1.md",
-    "GESP四级C++函数（一）-函数的作用 1.md",
-    "未确认 333264.crdownload",
-    "未确认 974692.crdownload",
-    "未确认 194349.crdownload",
-    "GESP-4/知识点/函数.md",
-    "GESP-4/知识点/00-index.md",
-    "GESP-4/知识点/二维数组和多维数组.md",
-    "GESP-4/知识点/指针.md",
-    "GESP-4/知识点/指针2.md",
-    "GESP-4/官方真题/GESP四级C++2025年12月考试逐题分析.md",
-    "GESP-3/知识点/00-index.md",
-    "GESP-4/知识点",
-    "GESP-3/知识点/02-2024-12.md",
-    "GESP-4/官方真题/GESP四级C++2025年12月.pdf",
+    "算法知识点/逆序对.md",
+    "知识点/字符串、字符数组、字面量、字符串字面量、string.md",
+    "知识点/原码10000000的补码是什么？.md",
     "GESP-3/00-index.md",
-    "Untitled 2.base",
-    "GESP-3/知识点/02-2024-03.md",
-    "Pasted image 20251222125629.png"
+    "GESP-3/2023-3-09-模版.md",
+    "GESP-3/知识点/02-2024.md",
+    "GESP-3/知识点/01-2023-12.md",
+    "GESP-3/知识点/01-2023.md",
+    "GESP-3/编程题/202509/2025-3-9-数组清零.md",
+    "GESP-3/编程题/202509/2025-3-09-日历制作.md",
+    "GESP-3/编程题/202506/2023-3-06-分糖果.md",
+    "GESP-3/编程题/202409/2024-3-09-回文拼接.md",
+    "GESP-3/编程题/202312/2023-3-12-小猫分鱼.md",
+    "GESP-3/编程题/202309/2023-3-09-小杨的储蓄.md",
+    "GESP-3/编程题/202309/2023-3-09-进制判断.md",
+    "GESP-4/官方真题/GESP四级C++2023年06月真题逐题分析.md",
+    "GESP-4/编程题/历年真题.md",
+    "GESP-4/官方真题/GESP四级C++2025年09月真题逐题分析.md",
+    "GESP-4/官方真题/GESP四级C++2025年12月真题逐题分析.md",
+    "GESP-4/官方真题/GESP四级C++2024年09月真题逐题分析.md",
+    "GESP-4/官方真题/GESP四级C++2024年06月真题逐题分析.md",
+    "GESP-4/官方真题/GESP四级C++2024年03月真题逐题分析.md",
+    "GESP-4/官方真题/GESP四级C++2023年12月真题逐题分析.md",
+    "GESP-4/官方真题/GESP四级C++2023年9月逐题考点分析.md",
+    "GESP-4/官方真题/00-GESP四级C++官方真题-index.md",
+    "GESP-4/编程题/编程模版.md",
+    "GESP-4/官方真题/GESP四级C++2025年09月.pdf",
+    "算法知识点",
+    "GESP-4/官方真题/GESP四级C++2025年03月.pdf",
+    "GESP-4/官方真题/GESP四级C++2024年12月.pdf",
+    "GESP-4/官方真题/GESP四级C++2025年12月.pdf",
+    "GESP-4/编程题/附件/Pasted image 20260309211850.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211832.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211756.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211720.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211652.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211520.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211508.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211433.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211342.png",
+    "GESP-4/编程题/附件/Pasted image 20260309211321.png",
+    "GESP-4/编程题/附件",
+    "GESP-4/官方真题/GESP四级C++2024年03月.pdf",
+    "GESP-4/编程题",
+    "GESP-4/官方真题/GESP四级C++2024年06月.pdf",
+    "GESP-4/官方真题/GESP四级C++2023年12月.pdf"
   ]
 }
